@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Projetos</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-list>
+    <ion-item button (click)="abrirModal(
+      'Revista Galatica',
+      'Este projeto foi desenvolvido com o objetivo de treinar habilidades em layout e uso de grids, sendo inspirado em sites de notícias e blogs.',
+      'https://github.com/Ralfzinho/Revista-Galatica')">
+      Revista Galatica - site de Blog/Noticias
+    </ion-item>
+    <ion-item button (click)="abrirModal(
+      'Sistema e Gerenciamento de Cartões',
+      'Este projeto foi desenvolvido durante as aulas de PHP, com o objetivo de compreender os fundamentos da linguagem e a integração entre o front-end e o banco de dados.',
+      'https://github.com/Ralfzinho/Bancodedados')">
+      Sistema e Gerenciamento de Cartões
+    </ion-item>
+    <ion-item button (click)="abrirModal(
+      'Restuarante Estrela no Prato',
+      'O projeto do restaurante é o meu principal projeto até o momento, desenvolvido individualmente. Nele, estou criando a ideia de um restaurante com temática galáxia, com um visual diferenciado. O sistema já está integrado a um banco de dados online, embora ainda esteja em fase de desenvolvimento.',
+      'https://github.com/Ralfzinho/Restuarante-estrela-no-prato')">
+      Restuarante Estrela no Prato
+    </ion-item>
+  </ion-list>
+</ion-content>
