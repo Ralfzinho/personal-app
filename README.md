@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/0d7a8266-26d4-4666-af56-0b68860b87f0)
-
-
 
 # Personal App 📱
 
