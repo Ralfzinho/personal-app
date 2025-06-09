@@ -29,7 +29,7 @@ Aplicativo desenvolvido como parte da disciplina **Mobile 1**, utilizando **Ioni
 ## 🚀 Como executar
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/personal-app.git
+   git clone [https://github.com/seu-usuario/personal-app.git](https://github.com/Ralfzinho/personal-app)
    cd personal-app
    
 3. Instale as dependências:
@@ -42,4 +42,4 @@ Execute o app:
 
 ## Autor:
 
--Thomás Augusto Zanin Moojen
+-Ralf
